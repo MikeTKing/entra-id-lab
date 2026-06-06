@@ -196,13 +196,4 @@ All administrative actions performed during this lab were captured in the Entra 
 - Microsoft Entra ID P2 (Free Trial)
 - Azure Portal ([portal.azure.com](https://portal.azure.com))
 
----
 
-## Related Projects
-
-- [Azure Cloud Monitoring & Alerting](../azure-monitoring)
-- [Azure Security Infrastructure](../azure-security)
-- [Azure Cost Visibility Dashboard](../azure-cost-dashboard)
-- [osTicket on Azure](../osticket-azure)
-
----
