@@ -179,14 +179,6 @@ All administrative actions performed during this lab were captured in the Entra 
 
 ---
 
-## Skills Demonstrated
-
-- **Identity & Access Management (IAM)** — full user lifecycle management, security group organization, role-based access control
-- **Zero Trust Security** — MFA enforcement via Conditional Access policy targeting all cloud apps
-- **Least Privilege Principle** — scoped role assignments; admin account excluded from per-user MFA and covered by Conditional Access instead
-- **Enterprise Security Policy** — Conditional Access policy designed and deployed in Report-only mode following Microsoft best practices
-- **Compliance & Auditing** — audit log review and documentation proving all administrative actions
-- **Microsoft Entra ID / Azure AD** — hands-on live tenant administration using the Entra admin center
 
 ---
 
